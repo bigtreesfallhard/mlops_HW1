@@ -6,4 +6,4 @@ scikit-learn
 joblib
 dvc
 pyyaml
-#yaml
+boto3
