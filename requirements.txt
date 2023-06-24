@@ -7,5 +7,3 @@ joblib
 dvc
 pyyaml
 boto3
-dvc[s3]
-s3fs
