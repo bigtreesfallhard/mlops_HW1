@@ -12,3 +12,5 @@ s3fs
 xgboost
 tensorflow
 tensorflow-privacy
+tensorflow-metal
+tensorflow-macos
