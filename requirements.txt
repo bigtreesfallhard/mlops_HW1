@@ -9,3 +9,11 @@ pyyaml
 boto3
 dvc[s3]
 s3fs
+xgboost
+tensorflow
+tensorflow-privacy
+tensorflow-metal
+tensorflow-macos
+functools
+keras.losses
+keras.layers
