@@ -14,3 +14,6 @@ tensorflow
 tensorflow-privacy
 tensorflow-metal
 tensorflow-macos
+functools
+keras.losses
+keras.layers
